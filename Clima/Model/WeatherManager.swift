@@ -66,8 +66,6 @@ struct WeatherManager {
             let weather = WeatherModel(conditionId: id, cityName: name, temperature: temp)
             return weather
             
-            print(weather.conditionName)
-            print(weather.temperatureString)
             
         } catch {
             delegate?.didFailWithError(error: error)
