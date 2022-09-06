@@ -1,3 +1,15 @@
 # ClimaApp
  This is my tutorial app.
- In this app i did practice about JSON,API,CoreLocation,Networking,MVC Design Pattern,Extensions,Protocols
+
+## Tools
+* Swift
+ * Protocols,Extensions
+* UIkit
+* JSONAPI 
+* CoreLocation 
+* Networking
+
+## Design Pattern
+* MVC Design Pattern 
+
+
